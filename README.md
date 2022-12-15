@@ -9,3 +9,12 @@ Burner wallets are like any other crypto wallet, only they are not permanent. Th
 Burner wallets add safety and they accelerate the application development process. They are more secure because you don’t have to worry about your real wallet credentials and worry about the safety.
 
 Always remember  that your burner wallet is temporary and shouldn’t be used as your primary wallet address.
+
+## EVM Fundamentals
+
+📹 Watch the video [here](https://streamyard.com/9r6mxtvtvjn2)
+
+## Developers guide to getting started w/Ethereum
+
+📹 Watch the video [here](https://streamyard.com/24xai9gjqakv)
+
