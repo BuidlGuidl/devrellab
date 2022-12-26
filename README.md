@@ -2,7 +2,7 @@
 
 ## 🔥👛 Burner Wallets
 
-📹 Watch the video [here](https://streamyard.com/iu45wzcsrnvd)
+📹 Watch the video [here](https://www.youtube.com/watch?v=lMLsAr9fDPM&t=6s&ab_channel=AustinGriffith)
 
 Burner wallets are like any other crypto wallet, only they are not permanent. They are created and used for specific purposes such as minting NFTs or making transactions on a dApp. You can transfer your funds from your real wallet to the burner wallet, and use the burner wallet for a specific purpose. For example if you’re going out for dinner you can get a burner wallet and charge it however much you need to and then throw it away.
 
