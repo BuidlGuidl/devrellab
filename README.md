@@ -14,6 +14,13 @@ Always remember  that your burner wallet is temporary and shouldn’t be used as
 
 📹 Watch the video [here](https://streamyard.com/9r6mxtvtvjn2)
 
+- Why all smarts contracts Bytecode start with “`6080604052`"
+    - Intro to bytecode in programming languages & compilers
+    - bits / bytes / hex
+    - opCode
+    - EVM contexts: Stack, Memory, etc
+    - Decode & do step by step execution 6080604052
+
 ## Developers guide to getting started w/Ethereum
 
 📹 Watch the video [here](https://streamyard.com/24xai9gjqakv)
