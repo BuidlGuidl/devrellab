@@ -28,3 +28,7 @@ Always remember  that your burner wallet is temporary and shouldn’t be used as
 ## Ethereum Scripting 
 
 📹 Watch the video [here](https://streamyard.com/5w7m6c29njyd)
+
+## Solidity Deep Dive 
+
+📹 Watch the video [here]([https://streamyard.com/5w7m6c29njyd](https://streamyard.com/exqdf4gcycpm))
